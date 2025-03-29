@@ -48,5 +48,5 @@ Visiting Student, Wee Kim Wee School of Communication and Information.
 Nanyang Technological University, Singapore.  
 GitHub: github.com/benjaminyjr17  
 LinkedIn: linkedin.com/in/benjaminyjr17  
-Academic Email: BENJAMIN0045@E.NTU.EDU.SG  
+Academic Email: BENJ0045@E.NTU.EDU.SG  
 For questions regarding this analysis or collaboration opportunities, please feel free to connect via GitHub or LinkedIn.  
