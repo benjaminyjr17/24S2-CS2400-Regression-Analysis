@@ -9,24 +9,24 @@ The analysis examines how various socioeconomic and environmental factors influe
 2.	Polynomial Regression: Investigating the non-linear relationship between death rates and non-white population percentage.
 
 ## Critical Files
-•	Benjamin_Oliver_Yick_U2120984H.ipynb: Jupyter notebook containing the complete analysis, visualizations, and findings.
-•	Individual Assignment Dataset AY2425 Semester 1.xlsx: Dataset used for the analysis.
-•	Report.md: 150-word summary of findings.
-•	Memo.md: 400-word memorandum suggesting additional variables for death rate prediction.
+•   Benjamin_Oliver_Yick_U2120984H.ipynb: Jupyter notebook containing the complete analysis, visualizations, and findings.  
+•	Individual Assignment Dataset AY2425 Semester 1.xlsx: Dataset used for the analysis.  
+•	Report.md: 150-word summary of findings.  
+•	Memo.md: 400-word memorandum suggesting additional variables for death rate prediction.  
 
 ## Methods Used
-•	Data exploration and visualization.
-•	Correlation analysis.
-•	Multiple linear regression.
-•	Polynomial regression.
-•	Cramer’s Rule for solving standard equations.
-•	Residual analysis.
+•	Data exploration and visualization.  
+•	Correlation analysis.  
+•	Multiple linear regression.  
+•	Polynomial regression.  
+•	Cramer’s Rule for solving standard equations.  
+•	Residual analysis.  
 
 ## Critical Findings
-•	Variables x6 (schooling for persons over 22) and x9 (percent non-white population) showed strong correlations with death rates.
-•	The multiple regression model achieved an R² of 0.XX.
-•	Polynomial regression of x9 revealed a non-linear relationship with death rates.
-•	Three additional variables (healthcare access, chronic disease prevalence, and income inequality) were proposed to improve the prediction.
+•	Variables x6 (schooling for persons over 22) and x9 (percent non-white population) showed strong correlations with death rates.  
+•	The multiple regression model achieved an R² of 0.XX.  
+•	Polynomial regression of x9 revealed a non-linear relationship with death rates.  
+•	Three additional variables (healthcare access, chronic disease prevalence, and income inequality) were proposed to improve the prediction.  
 
 ## Setup and Usage
 1.	Clone this repository.
@@ -42,11 +42,11 @@ pip install numpy pandas matplotlib seaborn statsmodels
 jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb
 
 ## Contact
-Benjamin Oliver Yick.
-Final-Year Data Science and Artificial Intelligence Undergraduate.
-Visiting Student, Wee Kim Wee School of Communication and Information.
-Nanyang Technological University, Singapore.
-GitHub: github.com/benjaminyjr17
-LinkedIn: linkedin.com/in/benjaminyjr17
-Academic Email: BENJAMIN0045@E.NTU.EDU.SG
-For questions regarding this analysis or collaboration opportunities, please feel free to connect via GitHub or LinkedIn.
+Benjamin Oliver Yick.  
+Final-Year Data Science and Artificial Intelligence Undergraduate.  
+Visiting Student, Wee Kim Wee School of Communication and Information.  
+Nanyang Technological University, Singapore.  
+GitHub: github.com/benjaminyjr17  
+LinkedIn: linkedin.com/in/benjaminyjr17  
+Academic Email: BENJAMIN0045@E.NTU.EDU.SG  
+For questions regarding this analysis or collaboration opportunities, please feel free to connect via GitHub or LinkedIn.  
