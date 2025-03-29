@@ -29,17 +29,17 @@ The analysis examines how various socioeconomic and environmental factors influe
 •	Three additional variables (healthcare access, chronic disease prevalence, and income inequality) were proposed to improve the prediction.  
 
 ## Setup and Usage
-1.	Clone this repository.
+1.	Clone this repository.  
 2.	Ensure you have Jupyter Notebook and the required Python libraries installed: 
-•	numpy.
-•	pandas.
-•	matplotlib.
-•	seaborn.
-•	statistics.
-•	statsmodels.
-pip install numpy pandas matplotlib seaborn statsmodels
-3.	Open the Jupyter Notebook to view the complete analysis:
-jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb
+•	numpy.   
+•	pandas.  
+•	matplotlib.  
+•	seaborn.  
+•	statistics.  
+•	statsmodels.  
+pip install numpy pandas matplotlib seaborn statsmodels  
+3.	Open the Jupyter Notebook to view the complete analysis: 
+jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb  
 
 ## Contact
 Benjamin Oliver Yick.  
