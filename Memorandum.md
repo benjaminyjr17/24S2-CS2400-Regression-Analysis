@@ -2,7 +2,7 @@
 
 **TO:** Senior Policy Advisors, United Nations (UN) Population Division.  
 **FROM:** Benjamin Oliver Yick.  
-**DATE:** 31 March 2025.  
+**DATE:** 31-MARCH-2025.  
 **SUBJECT:** Recommendations for Improving Death Rate Predictions in Aging Populations.
  
 ### Introduction
