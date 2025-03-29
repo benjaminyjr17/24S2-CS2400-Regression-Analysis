@@ -3,13 +3,17 @@
 ## Overview
 This repository contains a comprehensive statistical analysis of death rate determinants using multiple and polynomial regression techniques.  This analysis was completed as part of the CS2400 Individual Assignment at Nanyang Technological University (March 2025).
 
+## Project Links
+•	[GitHub Repo](https://github.com/benjaminyjr17/CS2400-Regression-Analysis.git)  
+•	[View Rendered Notebook](https://nbviewer.org/github/benjaminyjr17/CS2400-Regression-Analysis/blob/7b6c95b6d99826f3ee074b97711cae47d6bdc680/Benjamin_Oliver_Yick_U2120984H.ipynb)  
+
 ## Project Description
 The analysis examines how various socioeconomic and environmental factors influence regional death rates.  Two regression approaches were implemented:  
 1.	Multiple Regression: Analyzing the relationship between death rates and two independent variables (schooling levels and non-white population percentage).
 2.	Polynomial Regression: Investigating the non-linear relationship between death rates and non-white population percentage.
 
 ## Critical Files
-•   Benjamin_Oliver_Yick_U2120984H.ipynb: Jupyter notebook containing the complete analysis, visualizations, and findings.  
+•	Benjamin_Oliver_Yick_U2120984H.ipynb: Jupyter notebook containing the complete analysis, visualizations, and findings.  
 •	CS2400 Individual Assignment Briefs (AY24-25 - Semester 1).pdf: Official assignment requirements and guidelines from Nanyang Technological University, outlining the multiple and polynomial regression tasks, submission guidelines, and evaluation criteria.  
 •	Individual Assignment Dataset (AY24-25 - Semester 1).csv: Extracted dataset used for the regression analysis.  
 •	Report.md: 150-word summary of findings.  
