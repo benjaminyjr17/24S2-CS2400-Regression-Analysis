@@ -1,7 +1,7 @@
 # CS2400 Individual Assignment: Multiple and Polynomial Regression Analysis of Death Rate Determinants
 
 ## Overview
-This repository contains a comprehensive statistical analysis of death rate determinants using multiple and polynomial regression techniques.  This analysis was completed as part of the CS2400 Individual Assignment at Nanyang Technological University (March 2025).
+This repository contains a comprehensive statistical analysis of death rate determinants using multiple and polynomial regression techniques.  This analysis was completed as part of the CS2400 Individual Assignment at Nanyang Technological University (31 March 2025).
 
 ## Project Links
 •	[GitHub Repo](https://github.com/benjaminyjr17/CS2400-Regression-Analysis.git)  
