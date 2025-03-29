@@ -10,7 +10,7 @@ The analysis examines how various socioeconomic and environmental factors influe
 
 ## Critical Files
 •   Benjamin_Oliver_Yick_U2120984H.ipynb: Jupyter notebook containing the complete analysis, visualizations, and findings.  
-•	Individual Assignment Dataset AY2425 Semester 1.xlsx: Dataset used for the analysis.  
+•	Individual Assignment Dataset (AY24-25 - Semester 1).csv: Dataset used for the analysis.  
 •	Report.md: 150-word summary of findings.  
 •	Memo.md: 400-word memorandum suggesting additional variables for death rate prediction.  
 
