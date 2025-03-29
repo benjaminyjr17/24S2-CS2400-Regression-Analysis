@@ -5,7 +5,7 @@ This repository contains a comprehensive statistical analysis of death rate dete
 
 ## Project Links
 •	[GitHub Repo](https://github.com/benjaminyjr17/CS2400-Regression-Analysis.git)  
-•	[View Rendered Notebook](https://nbviewer.org/github/benjaminyjr17/CS2400-Regression-Analysis/blob/f2570c51b5f961de407b393c307386d5c5e583ca/Benjamin_Oliver_Yick_U2120984H.ipynb)  
+•	[View Rendered Notebook]([https://nbviewer.org/github/benjaminyjr17/CS2400-Regression-Analysis/blob/f2570c51b5f961de407b393c307386d5c5e583ca/Benjamin_Oliver_Yick_U2120984H.ipynb](https://nbviewer.org/github/benjaminyjr17/CS2400-Regression-Analysis/blob/ec084bd55712b7c17b3097f1459c431bd6272454/Benjamin_Oliver_Yick_U2120984H.ipynb)  
 
 ## Project Description
 The analysis examines how various socioeconomic and environmental factors influence regional death rates.  Two regression approaches were implemented:  
