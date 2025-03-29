@@ -43,11 +43,11 @@ pip install numpy pandas matplotlib seaborn statsmodels.
 jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb.   
 
 ## Contact
-Benjamin Oliver Yick.  
-Final-Year Data Science and Artificial Intelligence Undergraduate | Double Minors in Business and Communication Studies |  
-Visiting Student, Wee Kim Wee School of Communication and Information (WKWSCI).  
-Nanyang Technological University, Singapore.  
-GitHub: github.com/benjaminyjr17  
-LinkedIn: linkedin.com/in/benjaminyjr17  
-Academic Email: BENJ0045@E.NTU.EDU.SG  
-For questions regarding this analysis or collaboration opportunities, please feel free to connect via GitHub or LinkedIn.  
+•	Benjamin Oliver Yick.  
+•	Final-Year Data Science and Artificial Intelligence Undergraduate | Double Minors in Business and Communication Studies |  
+•	Visiting Student, Wee Kim Wee School of Communication and Information (WKWSCI).  
+•	Nanyang Technological University, Singapore.  
+•	GitHub: github.com/benjaminyjr17  
+•	LinkedIn: linkedin.com/in/benjaminyjr17  
+•	Academic Email: BENJ0045@E.NTU.EDU.SG  
+•	For questions regarding this analysis or collaboration opportunities, please feel free to connect via GitHub or LinkedIn.  
