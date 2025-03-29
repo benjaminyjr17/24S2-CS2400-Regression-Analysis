@@ -4,7 +4,7 @@
 This repository contains a comprehensive statistical analysis of death rate determinants using multiple and polynomial regression techniques.  This analysis was completed as part of the CS2400 Individual Assignment at Nanyang Technological University (March 2025).
 
 ## Project Description
-The analysis examines how various socioeconomic and environmental factors influence regional death rates.  Two regression approaches were implemented:
+The analysis examines how various socioeconomic and environmental factors influence regional death rates.  Two regression approaches were implemented:  
 1.	Multiple Regression: Analyzing the relationship between death rates and two independent variables (schooling levels and non-white population percentage).
 2.	Polynomial Regression: Investigating the non-linear relationship between death rates and non-white population percentage.
 
@@ -38,7 +38,7 @@ The analysis examines how various socioeconomic and environmental factors influe
 •	statistics.  
 •	statsmodels.  
 pip install numpy pandas matplotlib seaborn statsmodels.    
-3.	Open the Jupyter Notebook to view the complete analysis: 
+3.	Open the Jupyter Notebook to view the complete analysis:  
 jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb.   
 
 ## Contact
