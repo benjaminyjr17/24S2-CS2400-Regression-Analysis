@@ -25,7 +25,7 @@ The analysis examines how various socioeconomic and environmental factors influe
 
 ## Critical Findings
 •	Variables x6 (schooling for persons over 22) and x9 (percent non-white population) showed strong correlations with death rates.  
-•	The multiple regression model achieved an R² of 0.XX.  
+•	The multiple regression model achieved an R² of 0.5628.  
 •	Polynomial regression of x9 revealed a non-linear relationship with death rates.  
 •	Three additional variables (healthcare access, chronic disease prevalence, and income inequality) were proposed to improve the prediction.  
 
