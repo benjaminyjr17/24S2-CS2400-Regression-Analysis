@@ -43,7 +43,7 @@ jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb.
 
 ## Contact
 Benjamin Oliver Yick.  
-Final-Year Data Science and Artificial Intelligence Undergraduate.  
+Final-Year Data Science and Artificial Intelligence Undergraduate | Double Minors in Business and Communication Studies |  
 Visiting Student, Wee Kim Wee School of Communication and Information.  
 Nanyang Technological University, Singapore.  
 GitHub: github.com/benjaminyjr17  
