@@ -42,7 +42,7 @@ pip install numpy pandas matplotlib seaborn statsmodels.
 3.	Open the Jupyter Notebook to view the complete analysis:  
 jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb.   
 
-## Contact
+## Contact Information
 •	Benjamin Oliver Yick.  
 •	Final-Year Data Science and Artificial Intelligence Undergraduate | Double Minors in Business and Communication Studies |  
 •	Visiting Student, Wee Kim Wee School of Communication and Information (WKWSCI).  
