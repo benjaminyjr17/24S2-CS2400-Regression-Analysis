@@ -37,9 +37,9 @@ The analysis examines how various socioeconomic and environmental factors influe
 •	seaborn.  
 •	statistics.  
 •	statsmodels.  
-pip install numpy pandas matplotlib seaborn statsmodels  
+pip install numpy pandas matplotlib seaborn statsmodels.    
 3.	Open the Jupyter Notebook to view the complete analysis: 
-jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb  
+jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb.   
 
 ## Contact
 Benjamin Oliver Yick.  
