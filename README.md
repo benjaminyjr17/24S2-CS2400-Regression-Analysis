@@ -10,7 +10,8 @@ The analysis examines how various socioeconomic and environmental factors influe
 
 ## Critical Files
 •   Benjamin_Oliver_Yick_U2120984H.ipynb: Jupyter notebook containing the complete analysis, visualizations, and findings.  
-•	Individual Assignment Dataset (AY24-25 - Semester 1).csv: Dataset used for the analysis.  
+•	CS2400 Individual Assignment Briefs (AY24-25 - Semester 1).pdf: Official assignment requirements and guidelines from Nanyang Technological University, outlining the multiple and polynomial regression tasks, submission guidelines, and evaluation criteria.  
+•	Individual Assignment Dataset (AY24-25 - Semester 1).csv: Extracted dataset used for the regression analysis.  
 •	Report.md: 150-word summary of findings.  
 •	Memo.md: 400-word memorandum suggesting additional variables for death rate prediction.  
 
