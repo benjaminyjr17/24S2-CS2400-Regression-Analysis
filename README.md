@@ -30,7 +30,7 @@ The analysis examines how various socioeconomic and environmental factors influe
 
 ## Setup and Usage
 1.	Clone this repository.  
-2.	Ensure you have Jupyter Notebook and the required Python libraries installed: 
+2.	Ensure you have Jupyter Notebook and the required Python libraries installed:  
 •	numpy.  
 •	pandas.  
 •	matplotlib.  
