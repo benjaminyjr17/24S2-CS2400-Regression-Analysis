@@ -31,7 +31,7 @@ This analysis examines how various socioeconomic and environmental factors influ
 •	Polynomial regression of x₉ revealed a non-linear relationship with death rates.  
 •	Variables x₆ (schooling for persons over 22) and x₉ (percentage non-white population) showed strong correlations with death rates.  
 •	The multiple regression model achieved an **R² of 0.5628.**  
-•	The polynomial regression model achieved an R² of 0.4157.  
+•	The polynomial regression model achieved an **R² of 0.4157.**  
 •	Three additional variables (healthcare access, chronic disease prevalence, and income inequality) were proposed to improve the prediction.  
 
 ## Final Equations  
