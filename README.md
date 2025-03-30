@@ -3,6 +3,10 @@
 ## Overview  
 This repository contains a comprehensive statistical analysis of death rate determinants using multiple and polynomial regression techniques.  This analysis was completed as part of the CS2400 Individual Assignment at Nanyang Technological University (31-MARCH-2025).  
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)  
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)  
+![Status](https://img.shields.io/badge/Status-Completed-green.svg)  
+
 ## Project Links  
 •	[GitHub Repo](https://github.com/benjaminyjr17/24S2-CS2400-Regression-Analysis.git)  
 •	[View Rendered Notebook](https://nbviewer.org/github/benjaminyjr17/24S2-CS2400-Regression-Analysis/blob/a7295c2262a5847b3626b0b302e7279e69aef10f/Benjamin_Oliver_Yick_U2120984H.ipynb)  
