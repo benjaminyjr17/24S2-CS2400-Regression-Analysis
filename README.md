@@ -66,7 +66,7 @@ These models demonstrate that socioeconomic factors significantly influence mort
 #### 1. **Clone This Repository**  
    ```bash  
    git clone https://github.com/benjaminyjr17/24S2-CS2400-Regression-Analysis.git  
-   cd CS2400-Regression-Analysis  
+   cd 24S2-CS2400-Regression-Analysis  
    ```  
 
 #### 2. **Set Up a Virtual Environment (Recommended)**  
