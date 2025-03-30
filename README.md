@@ -70,14 +70,16 @@ These models demonstrate that socioeconomic factors significantly influence mort
    ```  
 
 #### 2. **Set Up a Virtual Environment (Recommended)**  
+   ```bash  
    # Create Virtual Environment  
    python -m venv venv  
 
-   # Activate virtual environment  
+   # Activate Virtual Environment  
    # On Windows:  
    venv\Scripts\activate  
    # On macOS/Linux:  
    source venv/bin/activate  
+   ```  
 
 3. **Install Required Dependencies**  
    # Install all required packages  
