@@ -99,7 +99,7 @@ jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb
 
 #### 5. **Working With the Analysis**  
    ```bash  
-•	Execute cells sequentially using Shift+Enter.  
+•	Execute cells sequentially using Shift + Enter.  
 •	The notebook is structured in sections: Data Loading → Exploration → Multiple Regression → Polynomial Regression → Results.  
 •	Visualizations will be displayed inline.  
 •	You can modify parameters in the regression cells to experiment with different variables.  
