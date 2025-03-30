@@ -92,7 +92,7 @@ pip list | grep -E "numpy|pandas|matplotlib|seaborn|statsmodels"
 
 #### 4. **Run the Jupyter Notebook**  
 ```bash  
-   jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb  
+jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb  
    ```  
 
 5. **Working with the analysis**  
