@@ -83,11 +83,11 @@ These models demonstrate that socioeconomic factors significantly influence mort
 
 #### 3. **Install Required Dependencies**  
 ```bash  
-   # Install All Required Packages  
-   pip install numpy pandas matplotlib seaborn statsmodels scikit-learn jupyter  
+# Install All Required Packages  
+pip install numpy pandas matplotlib seaborn statsmodels scikit-learn jupyter  
 
-   # Verify Installations  
-   pip list | grep -E "numpy|pandas|matplotlib|seaborn|statsmodels"  
+# Verify Installations  
+pip list | grep -E "numpy|pandas|matplotlib|seaborn|statsmodels"  
    ```  
 
 4. **Run the Jupyter Notebook**  
