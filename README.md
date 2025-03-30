@@ -82,7 +82,7 @@ These models demonstrate that socioeconomic factors significantly influence mort
    ```  
 
 #### 3. **Install Required Dependencies**  
-```bash  
+   ```bash  
 # Install All Required Packages  
 pip install numpy pandas matplotlib seaborn statsmodels scikit-learn jupyter  
 
@@ -91,20 +91,22 @@ pip list | grep -E "numpy|pandas|matplotlib|seaborn|statsmodels"
    ```  
 
 #### 4. **Run the Jupyter Notebook**  
-```bash  
+   ```bash  
 jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb  
    ```  
 
-5. **Working with the analysis**  
-•	Execute cells sequentially using Shift+Enter.
-•	The notebook is structured in sections: Data Loading → Exploration → Multiple Regression → Polynomial Regression → Results.
-•	All visualizations will be displayed inline.
-•	You can modify parameters in the regression cells to experiment with different variables.
+#### 5. **Working With the Analysis**  
+   ```bash  
+•	Execute cells sequentially using Shift+Enter.  
+•	The notebook is structured in sections: Data Loading → Exploration → Multiple Regression → Polynomial Regression → Results.  
+•	Visualizations will be displayed inline.  
+•	You can modify parameters in the regression cells to experiment with different variables.  
+   ```  
 
-6. **Troubleshooting**  
-•	If you encounter ModuleNotFoundError, ensure all packages are installed correctly.
-•	For CSV loading issues, verify the data file is in the same directory as the notebook.
-•	For detailed package requirements, check the imports at the top of the notebook.
+#### 6. **Troubleshooting**  
+•	For CSV loading issues, verify the data file is in the same directory as the notebook.  
+•	For detailed package requirements, check the imports at the top of the notebook.  
+•	If you encounter ModuleNotFoundError, ensure all packages are installed correctly.  
 
 ## Contact Information  
 •	Benjamin Oliver Yick.  
