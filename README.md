@@ -120,4 +120,4 @@ jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb
 •	GitHub: github.com/benjaminyjr17  
 •	🔗 [LinkedIn](https://www.linkedin.com/in/benjaminyjr17)  
 •	📧 Academic Email: BENJ0045@E.NTU.EDU.SG  
-•	For questions regarding this analysis or collaboration opportunities, please feel free to connect via GitHub or LinkedIn.  
+•	For questions regarding this analysis or collaboration opportunities, please feel free to contact me via GitHub or LinkedIn.  
