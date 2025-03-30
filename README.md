@@ -63,12 +63,12 @@ These models demonstrate that socioeconomic factors significantly influence mort
 
 ### Step-by-Step Instructions  
 
-1. **Clone this repository**  
+#### 1. **Clone This Repository**  
    ```bash  
    git clone https://github.com/BenjaminYick/CS2400-Regression-Analysis.git  
    cd CS2400-Regression-Analysis  
 
-2. **Set up a virtual environment (recommended)**  
+2. **Set Up a Virtual Environment (Recommended)**  
    # Create virtual environment  
    python -m venv venv  
 
