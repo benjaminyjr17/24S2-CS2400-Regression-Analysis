@@ -104,9 +104,11 @@ jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb
    ```  
 
 #### 6. **Troubleshooting**  
+   ```bash  
 •	For CSV loading issues, verify the data file is in the same directory as the notebook.  
 •	For detailed package requirements, check the imports at the top of the notebook.  
 •	If you encounter ModuleNotFoundError, ensure all packages are installed correctly.  
+   ```  
 
 ## Contact Information  
 •	Benjamin Oliver Yick.  
