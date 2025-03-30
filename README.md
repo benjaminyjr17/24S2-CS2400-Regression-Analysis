@@ -68,6 +68,16 @@ These models demonstrate that socioeconomic factors significantly influence mort
    git clone https://github.com/BenjaminYick/CS2400-Regression-Analysis.git  
    cd CS2400-Regression-Analysis  
 
+2. **Set up a virtual environment (recommended)**  
+   # Create virtual environment  
+   python -m venv venv  
+
+   # Activate virtual environment  
+   # On Windows:  
+   venv\Scripts\activate  
+   # On macOS/Linux:  
+   source venv/bin/activate  
+
 ## Contact Information  
 •	Benjamin Oliver Yick.  
 •	Final-Year Data Science and Artificial Intelligence Undergraduate | Double Minors in Business and Communication Studies |  
