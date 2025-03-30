@@ -38,7 +38,7 @@ This analysis examines how various socioeconomic and environmental factors influ
 The analysis yielded the following regression models for predicting death rates:  
 
 ### Multiple Regression Model  
-**y = 1211.8562 + (-28.9793)x₆ + (3.9165)x₉**, R² = 0.5628.  
+**y = 1211.8562 + (-28.9793)x₆ + (3.9165)x₉**, **R² = 0.5628.**  
 
 Where:  
 •	y = death rate.  
@@ -48,7 +48,7 @@ Where:
 This model explains approximately **56.28%** of the variance in death rates, with education level having a negative relationship with mortality, while non-white population percentage shows a positive correlation.  
 
 ### Polynomial Regression Model  
-**y = 882.9963 + (5.2506)x₉ + (-0.0227)x₉²**, R² = 0.4157.  
+**y = 882.9963 + (5.2506)x₉ + (-0.0227)x₉²**, **R² = 0.4157.**  
 
 This non-linear model captures the curvilinear relationship between nonwhite population percentage and death rates, explaining **41.57%** of the variance in mortality rates.  
 
