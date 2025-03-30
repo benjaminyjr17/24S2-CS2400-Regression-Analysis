@@ -55,17 +55,18 @@ This non-linear model captures the curvilinear relationship between nonwhite pop
 These models demonstrate that socioeconomic factors significantly influence mortality outcomes, with education as a protective factor, while demographic composition shows more complex relationships requiring polynomial modeling.  
 
 ## Setup and Usage  
-1.	Clone this repository.  
-2.	Ensure you have Jupyter Notebook and the required Python libraries installed:  
-•	matplotlib.  
-•	numpy.  
-•	pandas.  
-•	seaborn.  
-•	statistics.  
-•	statsmodels.api.  
-pip install numpy pandas matplotlib seaborn statsmodels.  
-3.	Open the Jupyter Notebook to view the complete analysis:  
-jupyter notebook Benjamin_Oliver_Yick_U2120984H.ipynb.  
+
+### Prerequisites  
+•	Python 3.8+.  
+•	Git.  
+•	Jupyter Notebook or JupyterLab.  
+
+### Step-by-Step Instructions  
+
+1. **Clone this repository**  
+   ```bash  
+   git clone https://github.com/BenjaminYick/CS2400-Regression-Analysis.git  
+   cd CS2400-Regression-Analysis  
 
 ## Contact Information  
 •	Benjamin Oliver Yick.  
